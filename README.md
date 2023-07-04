@@ -84,22 +84,20 @@
 - 펀딩 성공시 **이메일 알림**
 - 투자자와 기업의 구분된 로그인 및 회원 가입
 
-### 🔎 프로세스
-#### CLOVER 프로세스
+## 🔎 프로세스
+### CLOVER 프로세스
 <img width="550px" src="https://github.com/AyoungJo/CLOVER/assets/102283529/f2bed3eb-efb6-4f3b-a54e-015cf0ff6468">
 
-#### 기업 펀딩 프로세스
+### 기업 펀딩 프로세스
 <img width="500px" src="https://github.com/AyoungJo/CLOVER/assets/102283529/cbce72de-6013-4b6a-96ca-1d4d5d819c88">
 
-#### 투자 및 배당 프로세스
+### 투자 및 배당 프로세스
 <img width="550px" src="https://github.com/AyoungJo/CLOVER/assets/102283529/086cf38e-cb2d-47b7-b175-f192c20ec298">
 
-
-
-### 🪜 ERD
+## 🪜 ERD
 <img width="550px" src="https://github.com/AyoungJo/CLOVER/assets/102283529/91fb85da-764d-4e29-941a-18070f3766da">
 
-### 🎨 Layout
+## 🎨 Layout
 <img width="700px" src="https://github.com/AyoungJo/CLOVER/assets/102283529/876f5bea-a5a5-4318-8b36-55a230148b61">
 <img width="400px" src="https://github.com/AyoungJo/CLOVER/assets/102283529/dd408fdd-fe0b-4a1c-90ba-1330176fed19">
 <img width="700px" src="https://github.com/AyoungJo/CLOVER/assets/102283529/b07d6dde-49db-4ce9-92ab-51542a6f3bff">
@@ -107,17 +105,15 @@
 <img width="710px" src="https://github.com/AyoungJo/CLOVER/assets/102283529/6b850803-65fc-4fcd-b103-521f6b0297ed">
 <img width="700px" src="https://github.com/AyoungJo/CLOVER/assets/102283529/ec0d7ca0-9a7a-48de-9c0d-50a99d2fa44f">
 
-### ➕ ETC.
+## ➕ ETC.
 <a href="https://www.notion.so/e7ad407a2d67429184c319154ee33ced"> 클래스 다이어그램 </a> <br>
 <a href="https://www.notion.so/bc6e89be39234064a1517568984fcce3"> 시퀀스 다이어그램 </a> <br>
 <a href="https://www.notion.so/982f24d7f1ad4b2f87c9ed0a6cccae9c"> 유스케이스 다이어그램 </a>
 
-
-
-### 👥 Cowork Notion
+## 👥 Cowork Notion
 <a href="https://www.notion.so/CLOVER-41d8a1b2a77f4be887f2df23cc73c67f" > CLOVER</a>
 
-### 🦆 TEAM LOVERDUCK
+## 🦆 TEAM LOVERDUCK
 |이름|GitHub|담당 역할 (All team members develop Backend and Frontend)|
 |:----:|:-----:|:-----------|
 |김예린(PM)|<a href="https://github.com/ererink">ererink</a>|화면 설계, 명세서 작성, 펀딩 프로세스, 이메일 알림, SNS 공유|
