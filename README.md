@@ -115,8 +115,8 @@
 
 ## 🦆 TEAM LOVERDUCK
 |이름|GitHub|담당 역할 (All team members develop Backend and Frontend)|
-|:----:|:-----:|:-----------|
+|:-----:|:----:|:-----------|
 |김예린(PM)|<a href="https://github.com/ererink">ererink</a>|화면 설계, 명세서 작성, 펀딩 프로세스, 이메일 알림, SNS 공유|
-|박창현|<a href="https://github.com/gyeoul">gyeoul</a>|DB 설계, 명세서 작성, 배당 프로세스, 재무제표 크롤링 및 영업 이익프|
+|박창현|<a href="https://github.com/gyeoul">gyeoul</a>|DB 설계, 명세서 작성, 배당 프로세스, 재무제표 크롤링 및 영업 이익그래프|
 |윤소민|<a href="https://github.com/sowowowos">sowowowos</a>|명세서 작성, 로그인 및 회원가입 프로세스, KAKAO 로그인, Daum 주소 |
 |조아영|<a href="https://github.com/AyoungJo">AyoungJo</a>|화면 설계, 명세서 작성, 포인트 및 투자/환전 프로세스, 아임포트 KG 이니시스 결제 |
